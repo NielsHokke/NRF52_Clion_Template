@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NRF52" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="_build//nrf52832_xxaa.hex" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NRF_CLION" TARGET_NAME="NRF52" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/jlinkProgramRun.bat">
+    <method />
+  </configuration>
+</component>
